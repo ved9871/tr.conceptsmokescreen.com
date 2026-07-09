@@ -1,4 +1,4 @@
-# tr.smoke-screen.com
+# tr.conceptsmokescreen.com
 
 Smoke Screen güvenlik dumanı sistemlerinin Türkiye pazarı için Türkçe web sitesi. [us.smoke-screen.com](https://us.smoke-screen.com) sitesinin yapısı ve tasarımı birebir korunarak içerik Türkçeye çevrilmiştir.
 
@@ -23,4 +23,4 @@ Tüm çeviri eşleştirmeleri `../translations/smoke-screen-tr-translations.json
 
 ## Dağıtım
 
-Henüz bir GitHub deposuna veya `tr.conceptsmokescreen.com` alan adına dağıtılmadı. Form gönderim yönlendirmesi (`_next`) şu an `https://ved9871.github.io/tr.smoke-screen.com/thank-you.html` adresine ayarlı — gerçek dağıtım URL'si netleşince güncellenmeli.
+GitHub deposu: `ved9871/tr.conceptsmokescreen.com`. Canlı önizleme (GitHub Pages): `https://ved9871.github.io/tr.conceptsmokescreen.com/`. Form gönderim yönlendirmesi (`_next`) bu Pages URL'sindeki `thank-you.html` sayfasına ayarlıdır.
